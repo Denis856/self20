@@ -697,13 +697,6 @@ ul {
   .bg32 {
     background: rgba(0, 0, 0, 0.6);
   }
-  .header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    padding: 15px 0;
-    height: 30px;
-  }
   .menu1__list {
     margin: 20px 0 0 0;
   }
@@ -815,6 +808,13 @@ ul {
   }
 }
 @media (max-width: 500px) {
+  .header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 15px 0;
+    height: 30px;
+  }
   .header .head {
     font-size: 20px;
     line-height: 20px;

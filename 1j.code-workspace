@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\HTML\\examples\\слайдер\\1j"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\HTML\\examples\\галерея"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "20s"
+	}
+}
